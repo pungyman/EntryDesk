@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="780" viewBox="0 0 1600 780" role="img" aria-labelledby="title desc">
+<title id="title">EntryDesk: from a draft to checked initial weights</title><desc id="desc">A portfolio-manager draft contains weights, thesis, and conditions. Code checks risk and feasibility against equal-exposure references. The same manager confirms or revises once. The final valid book passes through exposure sizing and precision-safe commitment. If no valid entry survives, a deterministic inverse-volatility fallback is used.</desc>
+<rect width="1600" height="780" rx="28" fill="#ffffff"/>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7.5" refY="4.5" orient="auto"><path d="M 1 1 L 7.5 4.5 L 1 8" fill="none" stroke="#a9b1bf" stroke-width="1.6"/></marker><marker id="purple-arrow" markerWidth="9" markerHeight="9" refX="7.5" refY="4.5" orient="auto"><path d="M 1 1 L 7.5 4.5 L 1 8" fill="none" stroke="#7957bf" stroke-width="1.6"/></marker></defs>
+<text x="58" y="52" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="650" text-anchor="start">ENTRYDESK  /  INSIDE THE ENTRY</text>
+<text x="58" y="110" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="44" font-weight="650" text-anchor="start">A proposal earns its way into the portfolio.</text>
+<text x="58" y="151" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">The manager gets a measured critique, then one chance to reconsider.</text>
+<rect x="68" y="259" width="396" height="270" rx="22" fill="#f1edfc" stroke="#7957bf" stroke-opacity=".35" stroke-width="1.8"/>
+<rect x="602" y="259" width="396" height="270" rx="22" fill="#fff5e3" stroke="#bb821c" stroke-opacity=".35" stroke-width="1.8"/>
+<rect x="1136" y="259" width="396" height="270" rx="22" fill="#f1edfc" stroke="#7957bf" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(97,287) scale(1)" fill="none" stroke="#7957bf" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><circle cx="24" cy="13" r="9"/><path d="M7 43v-6c0-9 8-14 17-14s17 5 17 14v6M18 25l6 8 6-8M24 33v10"/></g>
+<text x="162" y="319" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" font-weight="650" text-anchor="start">Draft the book</text>
+<text x="99" y="389" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">Stock weights</text>
+<text x="99" y="431" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">Investment thesis</text>
+<text x="99" y="473" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">Plan conditions</text>
+<g transform="translate(631,287) scale(1)" fill="none" stroke="#bb821c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><path d="M24 4l17 7v13c0 10-8 17-17 22C15 41 7 34 7 24V11zM15 24l6 6 13-14"/></g>
+<text x="696" y="319" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" font-weight="650" text-anchor="start">Show the risks</text>
+<text x="632" y="389" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">Concentration + volatility</text>
+<text x="632" y="431" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">Beta + fees + constraints</text>
+<text x="632" y="473" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">Same-gross reference books</text>
+<g transform="translate(1165,287) scale(1)" fill="none" stroke="#7957bf" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><circle cx="24" cy="13" r="9"/><path d="M7 43v-6c0-9 8-14 17-14s17 5 17 14v6M18 25l6 8 6-8M24 33v10"/></g>
+<text x="1230" y="319" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="650" text-anchor="start">Confirm or revise</text>
+<text x="1167" y="389" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">Same portfolio manager</text>
+<text x="1167" y="433" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">One follow-up</text>
+<text x="1167" y="477" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">A revision is checked again</text>
+<path d="M464 393 H587" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="533" y="370" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle">Proposal</text>
+<path d="M998 393 H1121" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="1067" y="370" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle">Report</text>
+<path d="M1334 259 V210 H266 V244" fill="none" stroke="#7957bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#purple-arrow)" stroke-dasharray="7 7"/>
+<text x="800" y="194" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle">At most one revision</text>
+<path d="M1334 529 V574" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="1136" y="592" width="396" height="110" rx="22" fill="#edf3ff" stroke="#4d76c8" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(1166,621) scale(0.8)" fill="none" stroke="#4d76c8" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><rect x="4" y="12" width="40" height="31" rx="5"/><path d="M16 12V6h16v6M4 24h40M20 24v6h8v-6"/></g>
+<text x="1221" y="634" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="650" text-anchor="start">Validated weights + cash</text>
+<text x="1221" y="675" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start">Exposure sizing stays in code</text>
+<text x="69" y="626" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="650" text-anchor="start">If no valid entry survives</text>
+<text x="69" y="665" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">Use the inverse-volatility fallback.</text>
+<text x="800" y="749" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle">The draft, critique, revision and final weights stay in the decision record.</text>
+</svg>

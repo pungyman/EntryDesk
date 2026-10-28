@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+<title id="title">EntryDesk: two forecasting lenses inform the quant analyst</title><desc id="desc">Point-in-time data feeds a daily cross-sectional return ensemble and HAR volatility forecasters in parallel. Purged walk-forward training produces ranks; daily, weekly, and monthly variance features produce one- and three-session volatility forecasts. These are evidence for the quant analyst, not autonomous trading orders.</desc>
+<rect width="1600" height="700" rx="28" fill="#ffffff"/>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7.5" refY="4.5" orient="auto"><path d="M 1 1 L 7.5 4.5 L 1 8" fill="none" stroke="#a9b1bf" stroke-width="1.6"/></marker><marker id="purple-arrow" markerWidth="9" markerHeight="9" refX="7.5" refY="4.5" orient="auto"><path d="M 1 1 L 7.5 4.5 L 1 8" fill="none" stroke="#7957bf" stroke-width="1.6"/></marker></defs>
+<text x="58" y="52" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="650" text-anchor="start">ENTRYDESK  /  THE FORECASTING LAYER</text>
+<text x="58" y="110" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="44" font-weight="650" text-anchor="start">Two forecasts. Different questions.</text>
+<text x="58" y="151" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">Which names look stronger? How much risk might they carry?</text>
+<rect x="65" y="307" width="290" height="190" rx="22" fill="#f5f7fb" stroke="#758097" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(183,329) scale(1.05)" fill="none" stroke="#758097" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><ellipse cx="24" cy="10" rx="18" ry="7"/><path d="M6 10v27c0 10 36 10 36 0V10M6 23c0 10 36 10 36 0"/></g>
+<text x="210" y="421" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="middle">Point-in-time data</text>
+<text x="210" y="461" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="middle">Available by the cutoff</text>
+<rect x="492" y="216" width="550" height="180" rx="22" fill="#edf3ff" stroke="#4d76c8" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(521,242) scale(1)" fill="none" stroke="#4d76c8" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><rect x="4" y="5" width="13" height="10" rx="2"/><rect x="30" y="5" width="13" height="10" rx="2"/><rect x="17" y="33" width="13" height="10" rx="2"/><path d="M10 15v9h27v-9M24 24v9"/></g>
+<text x="591" y="277" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" font-weight="650" text-anchor="start">Daily return ensemble</text>
+<text x="522" y="327" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">Purged walk-forward training</text>
+<text x="522" y="364" fill="#4d76c8" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="650" text-anchor="start">Output: cross-sectional ranks</text>
+<rect x="492" y="437" width="550" height="180" rx="22" fill="#fff5e3" stroke="#bb821c" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(521,463) scale(1)" fill="none" stroke="#bb821c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><path d="M4 25c5-22 9-22 14 0s9 22 14 0 9-22 13-1M4 42h40"/></g>
+<text x="591" y="498" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" font-weight="650" text-anchor="start">HAR volatility</text>
+<text x="522" y="548" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">Daily, weekly + monthly variance</text>
+<text x="522" y="585" fill="#bb821c" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="650" text-anchor="start">Output: 1- and 3-session forecasts</text>
+<path d="M355 402 H410 V306 H477" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<path d="M410 402 V527 H477" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="1179" y="307" width="352" height="190" rx="22" fill="#edf7ef" stroke="#268354" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(1329,326) scale(1.05)" fill="none" stroke="#268354" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><path d="M6 41h37M10 37V24h6v13M23 37V14h6v23M36 37V5h6v32"/></g>
+<text x="1355" y="421" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="650" text-anchor="middle">Quant analyst</text>
+<text x="1355" y="461" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle">Evidence for the entry</text>
+<path d="M1042 306 H1100 V402 H1164" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<path d="M1042 527 H1100 V402" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="800" y="670" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle">Forecasts inform the decision. The portfolio manager chooses the allocation.</text>
+</svg>

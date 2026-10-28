@@ -8,24 +8,19 @@ A multi-agent portfolio-construction system built for the **[ACM ICAIF 2026 Trad
 
 [![Desk v3 entry mechanism: point-in-time evidence feeds independent analysts, a portfolio-manager draft, deterministic critique, one revision, and validated initial weights.](assets/entry-mechanism.svg)](docs/entry-mechanism.md)
 
-*The implemented reports-only entry path. The daily ensemble and HAR forecasts provide evidence; they do not independently place trades. After entry, the contest strategy holds the book. [Full-resolution graphic](assets/entry-mechanism.png) · [Editable source](assets/render_entry_mechanism.py).*
+*Four analysts inform one portfolio manager. Code supplies risk feedback and enforces the final constraints. The implemented contest strategy then holds the initial book. [Full-resolution overview](assets/entry-mechanism.png) · [Figure source](assets/render_entry_mechanism.py).*
 
 ## The interesting part is how the decision gets made
 
-An agent that can produce portfolio weights is easy to describe. A system that can explain where they came from, quantify their risks, refuse an invalid proposal, and recover when a model fails is a more useful engineering problem.
+The portfolio manager proposes weights, a thesis, and plan conditions. Code turns the proposal into a risk report, comparing it with reference portfolios at the same exposure. The manager then confirms or revises once.
 
-| Layer | What it contributes |
-|:--|:--|
-| **Point-in-time evidence** | Market regime, macro context, earnings timing, eligible headlines, daily-model ranks, volatility forecasts, and broader-universe context |
-| **Independent specialists** | Market, earnings, news, and quant analysts each receive their own input slice and produce structured reports |
-| **Portfolio manager** | Synthesizes the reports into weights, an investment thesis, and conditions that code can interpret |
-| **Quantified critique** | Checks concentration, expected volatility, market beta, recent drawdown, earnings exposure, and entry costs against inverse-volatility and risk-parity references at the same gross exposure |
-| **Bounded revision** | The PM confirms or replaces the draft once; a replacement is validated and its risk report is logged |
-| **Deterministic commitment** | Code owns the universe, caps, gross-exposure rules, precision, fallback, and final target weights |
+![The entry review: portfolio draft, deterministic risk report, one confirm-or-revise step, and validated weights.](assets/entry-review.svg)
 
 This is a **propose → measure → revise once → commit** architecture. The reusable idea extends beyond trading: specialists supply evidence, a decision-maker allocates resources, and ordinary code retains authority over constraints and execution. [See the adaptation guide](docs/entry-mechanism.md#adapting-the-pattern).
 
 ## Models that inform the desk
+
+![Two forecasting paths: a daily return-ranking ensemble and HAR volatility forecasters supply evidence to the quant analyst.](assets/forecasting-stack.svg)
 
 **Daily cross-sectional ensemble.** AutoGluon combines tabular model families to rank forward returns. The data pipeline uses point-in-time universe membership, label-end purging between years, and purged contiguous inner folds to reduce leakage from overlapping return horizons. The desk receives ranks within the 30 contest stocks and context from the broader training universe.
 

@@ -1,6 +1,6 @@
 # How initial weights become a committed portfolio
 
-![Entry construction](../assets/entry-mechanism.svg)
+![The bounded entry review: draft, risk report, confirm or revise, and validated weights.](../assets/entry-review.svg)
 
 The figure describes the implemented reports-only `V3Desk` configuration. The core design is not a free-running agent with brokerage tools. It is a bounded decision protocol around structured model outputs and deterministic portfolio code.
 

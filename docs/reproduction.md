@@ -72,11 +72,11 @@ The submission clients and production runner remain in the repository for implem
 
 ## Diagram source
 
-`assets/render_entry_mechanism.py` writes the editable SVG using the standard library. With CairoSVG installed it also writes a high-resolution PNG:
+`assets/render_entry_mechanism.py` writes three editable SVGs: the desk overview, the entry review, and the forecasting stack. With CairoSVG installed it also writes high-resolution PNGs:
 
 ```bash
 python -m pip install cairosvg
 python assets/render_entry_mechanism.py
 ```
 
-CairoSVG may require a system Cairo library. The committed SVG/PNG can be viewed without installing the renderer. The diagram's authoritative implementation references are in [entry-mechanism.md](entry-mechanism.md).
+CairoSVG may require a system Cairo library. The committed SVGs and PNGs can be viewed without installing the renderer. The diagram's authoritative implementation references are in [entry-mechanism.md](entry-mechanism.md).

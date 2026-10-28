@@ -1,5 +1,7 @@
 # Forecasts inform the entry; they are not the entry policy
 
+![Daily return ranks and HAR volatility forecasts feed the quant analyst.](../assets/forecasting-stack.svg)
+
 ## Daily return-ranking ensemble
 
 `icaif/train.py` orchestrates AutoGluon ensembles; `daily_features.py`, `features.py`, and `labels.py` construct features and forward targets. The daily model ranks stocks on multi-session forward returns. Its broader training universe provides context; only the 30 competition names can be traded.
