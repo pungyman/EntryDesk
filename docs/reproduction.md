@@ -72,10 +72,11 @@ The submission clients and production runner remain in the repository for implem
 
 ## Diagram source
 
-`assets/render_entry_mechanism.py` writes three editable SVGs: the desk overview, the entry review, and the forecasting stack. With CairoSVG installed it also writes high-resolution PNGs:
+`assets/render_desk_flow.py` writes the single front-page figure, `entry-desk-flow.svg`, with graphical inputs for each analyst and the path from reports to portfolio weights. It imports the shared vector helpers from `assets/render_entry_mechanism.py`, which also renders the supplementary entry-review and forecasting diagrams used in the detailed docs. With CairoSVG installed, both scripts also write high-resolution PNGs:
 
 ```bash
 python -m pip install cairosvg
+python assets/render_desk_flow.py
 python assets/render_entry_mechanism.py
 ```
 

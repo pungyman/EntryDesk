@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="960" viewBox="0 0 2000 960" role="img" aria-labelledby="title desc">
+<title id="title">EntryDesk: specialist evidence to portfolio weights</title><desc id="desc">Market charts and macro indicators feed the market analyst; earnings calendars, past reactions and stock context feed the earnings analyst; company headlines and price moves feed the news analyst; model ranks, volatility forecasts and portfolio signals feed the quant analyst. Each supplies an independent report to the portfolio manager, which chooses stock weights. Code supplies a risk critique for one confirm-or-revise step and applies validation and exposure sizing. Charts and allocations are schematic; optional SEC filing text is omitted from the recorded contest entry.</desc>
+<rect width="2000" height="960" rx="28" fill="#ffffff"/>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7.5" refY="4.5" orient="auto"><path d="M 1 1 L 7.5 4.5 L 1 8" fill="none" stroke="#a9b1bf" stroke-width="1.6"/></marker><marker id="purple-arrow" markerWidth="9" markerHeight="9" refX="7.5" refY="4.5" orient="auto"><path d="M 1 1 L 7.5 4.5 L 1 8" fill="none" stroke="#7957bf" stroke-width="1.6"/></marker></defs>
+<text x="44" y="54" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="start">ENTRYDESK</text>
+<text x="44" y="105" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="43" font-weight="650" text-anchor="start">Four analysts. One portfolio manager.</text>
+<text x="428" y="148" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="650" text-anchor="middle">SPECIALIST EVIDENCE</text>
+<text x="1040" y="148" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="650" text-anchor="middle">ANALYST AGENTS</text>
+<text x="1660" y="148" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="650" text-anchor="middle">PORTFOLIO CONSTRUCTION</text>
+<rect x="44" y="174" width="780" height="152" rx="20" fill="#edf7ef" stroke="#268354" stroke-opacity=".35" stroke-width="1.8"/>
+<path d="M304 198v100" stroke="#26835425" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M564 198v100" stroke="#26835425" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<text x="174" y="306" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Market + regime</text>
+<text x="434" y="306" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Macro + sectors</text>
+<text x="694" y="306" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Volatility + correlation</text>
+<path d="M94 206h160" stroke="#e8ecf1" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M94 230h160" stroke="#e8ecf1" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M94 254h160" stroke="#e8ecf1" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M94 250 L111 244 L128 248 L145 227 L162 233 L179 219 L196 224 L213 207 L230 214 L247 202 L247 262 H94 Z" stroke="none" stroke-width="0" fill="#268354" stroke-linejoin="round" stroke-linecap="round" fill-opacity=".10"/>
+<path d="M94 250 L111 244 L128 248 L145 227 L162 233 L179 219 L196 224 L213 207 L230 214 L247 202" stroke="#268354" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="361" y="218" width="32" height="39" rx="4" fill="#26835480" stroke="none"/>
+<text x="377" y="278" fill="#268354" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="650" text-anchor="middle">VIX</text>
+<rect x="417" y="233" width="32" height="24" rx="4" fill="#26835480" stroke="none"/>
+<text x="433" y="278" fill="#268354" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="650" text-anchor="middle">10Y</text>
+<rect x="473" y="205" width="32" height="52" rx="4" fill="#26835480" stroke="none"/>
+<text x="489" y="278" fill="#268354" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="650" text-anchor="middle">XLK</text>
+<rect x="625" y="194" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.15"/>
+<rect x="625" y="214" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.3"/>
+<rect x="625" y="234" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.5"/>
+<rect x="625" y="254" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.8"/>
+<rect x="650" y="194" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.3"/>
+<rect x="650" y="214" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.15"/>
+<rect x="650" y="234" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.3"/>
+<rect x="650" y="254" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.5"/>
+<rect x="675" y="194" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.5"/>
+<rect x="675" y="214" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.3"/>
+<rect x="675" y="234" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.15"/>
+<rect x="675" y="254" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.3"/>
+<rect x="700" y="194" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.8"/>
+<rect x="700" y="214" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.5"/>
+<rect x="700" y="234" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.3"/>
+<rect x="700" y="254" width="21" height="16" rx="3" fill="#268354" stroke="none" opacity="0.15"/>
+<path d="M747 206v53 M740 213l7-7 7 7" stroke="#268354" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M824 250 H894" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="912" y="183" width="256" height="134" rx="18" fill="#edf7ef" stroke="#268354" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(935,210) scale(1.1)" fill="none" stroke="#268354" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><circle cx="24" cy="13" r="9"/><path d="M7 43v-6c0-9 8-14 17-14s17 5 17 14v6M18 25l6 8 6-8M24 33v10"/></g>
+<circle cx="984" cy="257" r="15" fill="#ffffff"/>
+<g transform="translate(973,245) scale(0.46)" fill="none" stroke="#268354" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><path d="M5 40V9M5 40h39M11 31l10-12 9 5L43 9M35 9h8v8"/></g>
+<text x="1073" y="238" fill="#268354" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="middle">Market</text>
+<text x="1073" y="268" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">analyst</text>
+<path d="M1168 250 H1211" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1213" y="228" width="31" height="43" rx="4" fill="#ffffff" stroke="#268354"/>
+<path d="M1220 239h16" stroke="#268354" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1220 248h16" stroke="#268354" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1220 257h11" stroke="#268354" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1245 250 H1280" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="44" y="350" width="780" height="152" rx="20" fill="#fff5e3" stroke="#bb821c" stroke-opacity=".35" stroke-width="1.8"/>
+<path d="M304 374v100" stroke="#bb821c25" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M564 374v100" stroke="#bb821c25" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<text x="174" y="482" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Earnings calendar</text>
+<text x="434" y="482" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Past earnings reactions</text>
+<text x="694" y="482" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Stock returns + risk</text>
+<rect x="118" y="369" width="112" height="80" rx="9" fill="#ffffff" stroke="#bb821c"/>
+<rect x="119" y="370" width="110" height="22" rx="8" fill="#bb821c" stroke="none"/>
+<circle cx="137" cy="409" r="3" fill="#cbd1dc"/>
+<circle cx="137" cy="433" r="3" fill="#cbd1dc"/>
+<circle cx="162" cy="409" r="3" fill="#cbd1dc"/>
+<circle cx="162" cy="433" r="3" fill="#cbd1dc"/>
+<circle cx="187" cy="409" r="3" fill="#cbd1dc"/>
+<circle cx="187" cy="433" r="10" fill="#bb821c"/>
+<circle cx="212" cy="409" r="3" fill="#cbd1dc"/>
+<circle cx="212" cy="433" r="3" fill="#cbd1dc"/>
+<path d="M143 364v12 M203 364v12" stroke="#bb821c" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M358 412h155" stroke="#d6dce6" stroke-width="1.4" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="365" y="388" width="14" height="24" rx="3" fill="#bb821c" stroke="none"/>
+<rect x="389" y="412" width="14" height="18" rx="3" fill="#c2cad8" stroke="none"/>
+<rect x="413" y="377" width="14" height="35" rx="3" fill="#bb821c" stroke="none"/>
+<rect x="437" y="412" width="14" height="13" rx="3" fill="#c2cad8" stroke="none"/>
+<rect x="461" y="392" width="14" height="20" rx="3" fill="#bb821c" stroke="none"/>
+<rect x="485" y="412" width="14" height="24" rx="3" fill="#c2cad8" stroke="none"/>
+<path d="M617 384h160" stroke="#e8ecf1" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M617 408h160" stroke="#e8ecf1" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M617 432h160" stroke="#e8ecf1" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M617 414 L634 404 L651 416 L668 396 L685 406 L702 391 L719 402 L736 389 L753 396 L770 385 L770 440 H617 Z" stroke="none" stroke-width="0" fill="#bb821c" stroke-linejoin="round" stroke-linecap="round" fill-opacity=".10"/>
+<path d="M617 414 L634 404 L651 416 L668 396 L685 406 L702 391 L719 402 L736 389 L753 396 L770 385" stroke="#bb821c" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M824 426 H894" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="912" y="359" width="256" height="134" rx="18" fill="#fff5e3" stroke="#bb821c" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(935,386) scale(1.1)" fill="none" stroke="#bb821c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><circle cx="24" cy="13" r="9"/><path d="M7 43v-6c0-9 8-14 17-14s17 5 17 14v6M18 25l6 8 6-8M24 33v10"/></g>
+<circle cx="984" cy="433" r="15" fill="#ffffff"/>
+<g transform="translate(973,421) scale(0.46)" fill="none" stroke="#bb821c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><rect x="5" y="8" width="38" height="35" rx="5"/><path d="M5 19h38M15 4v10M33 4v10M14 28h5M28 28h5M14 35h5"/></g>
+<text x="1073" y="414" fill="#bb821c" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="middle">Earnings</text>
+<text x="1073" y="444" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">analyst</text>
+<path d="M1168 426 H1211" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1213" y="404" width="31" height="43" rx="4" fill="#ffffff" stroke="#bb821c"/>
+<path d="M1220 415h16" stroke="#bb821c" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1220 424h16" stroke="#bb821c" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1220 433h11" stroke="#bb821c" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1245 426 H1280" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="44" y="526" width="780" height="152" rx="20" fill="#edf3ff" stroke="#4d76c8" stroke-opacity=".35" stroke-width="1.8"/>
+<path d="M304 550v100" stroke="#4d76c825" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M564 550v100" stroke="#4d76c825" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<text x="174" y="658" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Company headlines</text>
+<text x="434" y="658" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Event timing</text>
+<text x="694" y="658" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Recent price move</text>
+<rect x="117" y="537" width="136" height="80" rx="7" fill="#ffffff" stroke="#d4dbe6"/>
+<rect x="109" y="543" width="136" height="80" rx="7" fill="#ffffff" stroke="#d4dbe6"/>
+<rect x="101" y="549" width="136" height="80" rx="7" fill="#ffffff" stroke="#d4dbe6"/>
+<rect x="112" y="562" width="32" height="27" rx="4" fill="#4d76c825" stroke="none"/>
+<path d="M119 583l7-9 7 4 5-9" stroke="#4d76c8" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="154" y="564" width="66" height="4" rx="2" fill="#4d76c8" stroke="none"/>
+<rect x="154" y="576" width="75" height="4" rx="2" fill="#d5dce7" stroke="none"/>
+<rect x="112" y="597" width="110" height="4" rx="2" fill="#d5dce7" stroke="none"/>
+<rect x="112" y="609" width="93" height="4" rx="2" fill="#d5dce7" stroke="none"/>
+<path d="M366 592h140" stroke="#4d76c880" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="378" cy="592" r="5" fill="#4d76c8"/>
+<circle cx="417" cy="592" r="8" fill="#4d76c8"/>
+<circle cx="447" cy="592" r="5" fill="#4d76c8"/>
+<circle cx="491" cy="592" r="6" fill="#4d76c8"/>
+<text x="434" y="566" fill="#4d76c8" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="650" text-anchor="middle">72h</text>
+<path d="M491 611v-39" stroke="#4d76c8" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M617 561h160" stroke="#e8ecf1" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M617 585h160" stroke="#e8ecf1" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M617 609h160" stroke="#e8ecf1" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M617 591 L634 581 L651 593 L668 573 L685 583 L702 568 L719 579 L736 566 L753 573 L770 562 L770 617 H617 Z" stroke="none" stroke-width="0" fill="#4d76c8" stroke-linejoin="round" stroke-linecap="round" fill-opacity=".10"/>
+<path d="M617 591 L634 581 L651 593 L668 573 L685 583 L702 568 L719 579 L736 566 L753 573 L770 562" stroke="#4d76c8" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M824 602 H894" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="912" y="535" width="256" height="134" rx="18" fill="#edf3ff" stroke="#4d76c8" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(935,562) scale(1.1)" fill="none" stroke="#4d76c8" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><circle cx="24" cy="13" r="9"/><path d="M7 43v-6c0-9 8-14 17-14s17 5 17 14v6M18 25l6 8 6-8M24 33v10"/></g>
+<circle cx="984" cy="609" r="15" fill="#ffffff"/>
+<g transform="translate(973,597) scale(0.46)" fill="none" stroke="#4d76c8" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><rect x="5" y="7" width="38" height="36" rx="4"/><path d="M13 15h22M13 23h9v11h-9zM28 23h7M28 30h7M13 38h22"/></g>
+<text x="1073" y="590" fill="#4d76c8" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="middle">News</text>
+<text x="1073" y="620" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">analyst</text>
+<path d="M1168 602 H1211" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1213" y="580" width="31" height="43" rx="4" fill="#ffffff" stroke="#4d76c8"/>
+<path d="M1220 591h16" stroke="#4d76c8" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1220 600h16" stroke="#4d76c8" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1220 609h11" stroke="#4d76c8" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1245 602 H1280" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="44" y="702" width="780" height="152" rx="20" fill="#f1edfc" stroke="#7957bf" stroke-opacity=".35" stroke-width="1.8"/>
+<path d="M304 726v100" stroke="#7957bf25" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M564 726v100" stroke="#7957bf25" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<text x="174" y="834" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Return-model ranks</text>
+<text x="434" y="834" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">HAR + realized volatility</text>
+<text x="694" y="834" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">OU + reference weights</text>
+<text x="103" y="736" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="650" text-anchor="middle">1</text>
+<rect x="120" y="725" width="120" height="11" rx="4" fill="#7957bf" stroke="none"/>
+<text x="103" y="755" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="650" text-anchor="middle">2</text>
+<rect x="120" y="744" width="93" height="11" rx="4" fill="#7957bf" stroke="none"/>
+<text x="103" y="774" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="650" text-anchor="middle">3</text>
+<rect x="120" y="763" width="66" height="11" rx="4" fill="#7957bf" stroke="none"/>
+<text x="103" y="793" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="650" text-anchor="middle">4</text>
+<rect x="120" y="782" width="42" height="11" rx="4" fill="#7957bf" stroke="none"/>
+<path d="M359 792h150" stroke="#e1e6ef" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M359 775l12-8 12 6 12-22 12 11 12-29 12 24 12-13 12 20" stroke="#7957bf" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M467 764l14-12 14 7 14-10" stroke="#7957bf" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4 5"/>
+<path d="M618 743h145" stroke="#d1d8e6" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4 5"/>
+<path d="M618 735c15 0 15 40 32 29s20-40 37-27 22 24 37 12 24-16 39-6" stroke="#7957bf" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="618" y="771.0" width="25" height="17.0" rx="3" fill="#7957bf90" stroke="none"/>
+<rect x="656" y="774.0" width="25" height="14.0" rx="3" fill="#7957bf90" stroke="none"/>
+<rect x="694" y="766.0" width="25" height="22.0" rx="3" fill="#7957bf90" stroke="none"/>
+<rect x="732" y="777.0" width="25" height="11.0" rx="3" fill="#7957bf90" stroke="none"/>
+<path d="M824 778 H894" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="912" y="711" width="256" height="134" rx="18" fill="#f1edfc" stroke="#7957bf" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(935,738) scale(1.1)" fill="none" stroke="#7957bf" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><circle cx="24" cy="13" r="9"/><path d="M7 43v-6c0-9 8-14 17-14s17 5 17 14v6M18 25l6 8 6-8M24 33v10"/></g>
+<circle cx="984" cy="785" r="15" fill="#ffffff"/>
+<g transform="translate(973,773) scale(0.46)" fill="none" stroke="#7957bf" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><path d="M6 41h37M10 37V24h6v13M23 37V14h6v23M36 37V5h6v32"/></g>
+<text x="1073" y="766" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="middle">Quant</text>
+<text x="1073" y="796" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">analyst</text>
+<path d="M1168 778 H1211" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1213" y="756" width="31" height="43" rx="4" fill="#ffffff" stroke="#7957bf"/>
+<path d="M1220 767h16" stroke="#7957bf" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1220 776h16" stroke="#7957bf" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1220 785h11" stroke="#7957bf" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M1245 778 H1280" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1280 250 V778" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1280 514 H1340" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="1280" y="209" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Reports</text>
+<rect x="1358" y="363" width="260" height="301" rx="24" fill="#f1edfc" stroke="#7957bf" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(1446,389) scale(1.8)" fill="none" stroke="#7957bf" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><circle cx="24" cy="13" r="9"/><path d="M7 43v-6c0-9 8-14 17-14s17 5 17 14v6M18 25l6 8 6-8M24 33v10"/></g>
+<text x="1488" y="518" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" font-weight="650" text-anchor="middle">Portfolio</text>
+<text x="1488" y="555" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" font-weight="650" text-anchor="middle">manager</text>
+<text x="1488" y="607" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="550" text-anchor="middle">Chooses stock weights</text>
+<path d="M1618 514 H1712" fill="none" stroke="#7957bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#purple-arrow)"/>
+<text x="1666" y="489" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle">Weights</text>
+<rect x="1730" y="363" width="226" height="301" rx="24" fill="#edf3ff" stroke="#4d76c8" stroke-opacity=".35" stroke-width="1.8"/>
+<text x="1843" y="408" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="650" text-anchor="middle">Allocation</text>
+<text x="1756" y="456" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="550" text-anchor="middle">A</text>
+<rect x="1775" y="441" width="151" height="21" rx="5" fill="#dde7fb" stroke="none"/>
+<rect x="1775" y="441" width="115" height="21" rx="5" fill="#4d76c8" stroke="none"/>
+<text x="1756" y="496" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="550" text-anchor="middle">B</text>
+<rect x="1775" y="481" width="151" height="21" rx="5" fill="#dde7fb" stroke="none"/>
+<rect x="1775" y="481" width="86" height="21" rx="5" fill="#4d76c8" stroke="none"/>
+<text x="1756" y="536" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="550" text-anchor="middle">C</text>
+<rect x="1775" y="521" width="151" height="21" rx="5" fill="#dde7fb" stroke="none"/>
+<rect x="1775" y="521" width="66" height="21" rx="5" fill="#4d76c8" stroke="none"/>
+<text x="1756" y="576" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="550" text-anchor="middle">…</text>
+<rect x="1775" y="561" width="151" height="21" rx="5" fill="#dde7fb" stroke="none"/>
+<rect x="1775" y="561" width="39" height="21" rx="5" fill="#4d76c8" stroke="none"/>
+<text x="1843" y="636" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle">Relative stock weights</text>
+<rect x="1360" y="736" width="596" height="119" rx="18" fill="#f5f7fb" stroke="#758097" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(1380,758) scale(1.1)" fill="none" stroke="#758097" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><path d="M24 4l17 7v13c0 10-8 17-17 22C15 41 7 34 7 24V11zM15 24l6 6 13-14"/></g>
+<text x="1461" y="774" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="650" text-anchor="start">Code checks risk</text>
+<text x="1461" y="806" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start">Confirm or revise once</text>
+<path d="M1430 664 V721" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<path d="M1547 736 V679" fill="none" stroke="#7957bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#purple-arrow)"/>
+<path d="M1843 664 V721" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="1843" y="776" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="650" text-anchor="middle">Validate + size</text>
+<text x="1843" y="807" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Initial weights + cash</text>
+<path d="M1731 758v72" stroke="#d5dce7" stroke-width="1" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+<text x="44" y="903" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start">Point-in-time inputs · independent reports · one bounded decision</text>
+<text x="44" y="936" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" text-anchor="start">Schematic charts and allocation. Shared clock/book context omitted; SEC filing text excluded in the recorded entry.</text>
+</svg>
