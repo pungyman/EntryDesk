@@ -1,4 +1,4 @@
-# ICAIF 2026 · An evidence-driven trading desk
+# EntryDesk — ACM ICAIF 2026 Trading Agent
 
 ### What if the most important trading decision happens before the first trade?
 
@@ -40,8 +40,8 @@ This is a **propose → measure → revise once → commit** architecture. The r
 Python **3.13** is the reference environment. This lightweight path installs neither AutoGluon nor provider SDKs.
 
 ```bash
-git clone https://github.com/pungyman/icaif2026.git
-cd icaif2026
+git clone https://github.com/pungyman/EntryDesk.git
+cd EntryDesk
 python3.13 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements/demo.txt

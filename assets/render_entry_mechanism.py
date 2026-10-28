@@ -22,7 +22,7 @@ def card(x,y,w,h,title,lines,accent=CYAN):
 def label(y,num,title,detail=''):
  text(72,y,num,22,CYAN,650);text(119,y,title,27,INK,650)
  if detail:text(1525,y,detail,21,MUTED,anchor='end')
-text(72,68,'ICAIF 2026  /  AGENTIC PORTFOLIO CONSTRUCTION',20,CYAN,650)
+text(72,68,'ENTRYDESK  /  ICAIF 2026  /  AGENTIC PORTFOLIO CONSTRUCTION',20,CYAN,650)
 text(72,130,'A portfolio is decided before it is traded.',48,INK,650)
 text(72,179,'Separate evidence. Make a proposal. Measure its risks. Commit only what passes.',25,MUTED)
 path('M 72 211 H 1528',LINE,False)

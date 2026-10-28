@@ -3,7 +3,7 @@
 <desc id="desc">Point-in-time data feeds four independent analysts. A portfolio manager drafts weights, a thesis, and conditions. Code validates and quantifies risk against same-gross baselines; the manager confirms or revises once. Code validates the final book, applies a configured exposure overlay, and records precision-safe target weights and cash. If no valid entry survives, a deterministic inverse-volatility fallback is used. The implemented contest entry then holds the book.</desc>
 <rect width="1600" height="1250" rx="28" fill="#0c1425"/>
 <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M 1 1 L 8 5 L 1 9" fill="none" stroke="#65d9ed" stroke-width="1.5"/></marker><marker id="loop" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M 1 1 L 8 5 L 1 9" fill="none" stroke="#bba8ff" stroke-width="1.5"/></marker></defs>
-<text x="72" y="68" fill="#65d9ed" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="650" text-anchor="start">ICAIF 2026  /  AGENTIC PORTFOLIO CONSTRUCTION</text>
+<text x="72" y="68" fill="#65d9ed" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="650" text-anchor="start">ENTRYDESK  /  ICAIF 2026  /  AGENTIC PORTFOLIO CONSTRUCTION</text>
 <text x="72" y="130" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="48" font-weight="650" text-anchor="start">A portfolio is decided before it is traded.</text>
 <text x="72" y="179" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">Separate evidence. Make a proposal. Measure its risks. Commit only what passes.</text>
 <path d="M 72 211 H 1528" fill="none" stroke="#344965" stroke-width="2.5"/>
