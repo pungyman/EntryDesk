@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1250" viewBox="0 0 1600 1250" role="img" aria-labelledby="title desc">
+<title id="title">From evidence to initial portfolio weights: the Desk v3 entry mechanism</title>
+<desc id="desc">Point-in-time data feeds four independent analysts. A portfolio manager drafts weights, a thesis, and conditions. Code validates and quantifies risk against same-gross baselines; the manager confirms or revises once. Code validates the final book, applies a configured exposure overlay, and records precision-safe target weights and cash. If no valid entry survives, a deterministic inverse-volatility fallback is used. The implemented contest entry then holds the book.</desc>
+<rect width="1600" height="1250" rx="28" fill="#0c1425"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M 1 1 L 8 5 L 1 9" fill="none" stroke="#65d9ed" stroke-width="1.5"/></marker><marker id="loop" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M 1 1 L 8 5 L 1 9" fill="none" stroke="#bba8ff" stroke-width="1.5"/></marker></defs>
+<text x="72" y="68" fill="#65d9ed" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="650" text-anchor="start">ICAIF 2026  /  AGENTIC PORTFOLIO CONSTRUCTION</text>
+<text x="72" y="130" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="48" font-weight="650" text-anchor="start">A portfolio is decided before it is traded.</text>
+<text x="72" y="179" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">Separate evidence. Make a proposal. Measure its risks. Commit only what passes.</text>
+<path d="M 72 211 H 1528" fill="none" stroke="#344965" stroke-width="2.5"/>
+<text x="72" y="248" fill="#65d9ed" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="650" text-anchor="start">01</text>
+<text x="119" y="248" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="650" text-anchor="start">Freeze the evidence</text>
+<text x="1525" y="248" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="end">Every input is cut at the decision deadline</text>
+<rect x="72" y="270" width="277" height="116" rx="16" fill="#142138"/>
+<rect x="72" y="290" width="4" height="76" rx="2" fill="#65d9ed"/>
+<text x="95" y="306" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Market context</text>
+<text x="95" y="340" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Regime, macro,</text>
+<text x="95" y="369" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">returns and correlations</text>
+<path d="M 210 386 V 408" fill="none" stroke="#344965" stroke-width="2.5"/>
+<rect x="367" y="270" width="277" height="116" rx="16" fill="#142138"/>
+<rect x="367" y="290" width="4" height="76" rx="2" fill="#65d9ed"/>
+<text x="390" y="306" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Daily ensemble</text>
+<text x="390" y="340" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Purged walk-forward</text>
+<text x="390" y="369" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">cross-sectional ranks</text>
+<path d="M 505 386 V 408" fill="none" stroke="#344965" stroke-width="2.5"/>
+<rect x="662" y="270" width="277" height="116" rx="16" fill="#142138"/>
+<rect x="662" y="290" width="4" height="76" rx="2" fill="#65d9ed"/>
+<text x="685" y="306" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">HAR volatility</text>
+<text x="685" y="340" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">1- and 3-session</text>
+<text x="685" y="369" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">variance forecasts</text>
+<path d="M 800 386 V 408" fill="none" stroke="#344965" stroke-width="2.5"/>
+<rect x="957" y="270" width="277" height="116" rx="16" fill="#142138"/>
+<rect x="957" y="290" width="4" height="76" rx="2" fill="#65d9ed"/>
+<text x="980" y="306" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Events + news</text>
+<text x="980" y="340" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Earnings timing,</text>
+<text x="980" y="369" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">eligible headlines</text>
+<path d="M 1095 386 V 408" fill="none" stroke="#344965" stroke-width="2.5"/>
+<rect x="1252" y="270" width="277" height="116" rx="16" fill="#142138"/>
+<rect x="1252" y="290" width="4" height="76" rx="2" fill="#65d9ed"/>
+<text x="1275" y="306" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Universe context</text>
+<text x="1275" y="340" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Broader stock ranking;</text>
+<text x="1275" y="369" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">30 tradable names</text>
+<path d="M 1390 386 V 408" fill="none" stroke="#344965" stroke-width="2.5"/>
+<path d="M 210 408 H 1390" fill="none" stroke="#344965" stroke-width="2.5"/>
+<path d="M 238 408 V 434" fill="none" stroke="#65d9ed" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="72" y="438" width="333" height="92" rx="16" fill="#142138"/>
+<rect x="72" y="458" width="4" height="52" rx="2" fill="#bba8ff"/>
+<text x="95" y="474" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Market analyst</text>
+<text x="95" y="508" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Macro + market structure</text>
+<path d="M 238 530 V 554" fill="none" stroke="#344965" stroke-width="2.5"/>
+<path d="M 612 408 V 434" fill="none" stroke="#65d9ed" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="446" y="438" width="333" height="92" rx="16" fill="#142138"/>
+<rect x="446" y="458" width="4" height="52" rx="2" fill="#bba8ff"/>
+<text x="469" y="474" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Earnings analyst</text>
+<text x="469" y="508" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Event timing + reactions</text>
+<path d="M 612 530 V 554" fill="none" stroke="#344965" stroke-width="2.5"/>
+<path d="M 986 408 V 434" fill="none" stroke="#65d9ed" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="820" y="438" width="333" height="92" rx="16" fill="#142138"/>
+<rect x="820" y="458" width="4" height="52" rx="2" fill="#bba8ff"/>
+<text x="843" y="474" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">News analyst</text>
+<text x="843" y="508" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Company-specific catalysts</text>
+<path d="M 986 530 V 554" fill="none" stroke="#344965" stroke-width="2.5"/>
+<path d="M 1360 408 V 434" fill="none" stroke="#65d9ed" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="1194" y="438" width="333" height="92" rx="16" fill="#142138"/>
+<rect x="1194" y="458" width="4" height="52" rx="2" fill="#bba8ff"/>
+<text x="1217" y="474" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Quant analyst</text>
+<text x="1217" y="508" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Ranks + risk + context</text>
+<path d="M 1360 530 V 554" fill="none" stroke="#344965" stroke-width="2.5"/>
+<path d="M 238 554 H 1360" fill="none" stroke="#344965" stroke-width="2.5"/>
+<text x="1525" y="587" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="end">Four independent reports; PM sees a compact market table</text>
+<text x="72" y="618" fill="#65d9ed" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="650" text-anchor="start">02</text>
+<text x="119" y="618" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="650" text-anchor="start">Deliberate with a bounded critique</text>
+<path d="M 800 554 V 638 H 272 V 650" fill="none" stroke="#65d9ed" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="72" y="654" width="402" height="152" rx="16" fill="#142138"/>
+<rect x="72" y="674" width="4" height="112" rx="2" fill="#bba8ff"/>
+<text x="95" y="690" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">PM drafts the book</text>
+<text x="95" y="724" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Weights + investment thesis</text>
+<text x="95" y="753" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Machine-checkable conditions</text>
+<path d="M 474 730 H 528" fill="none" stroke="#65d9ed" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="544" y="654" width="500" height="152" rx="16" fill="#142138"/>
+<rect x="544" y="674" width="4" height="112" rx="2" fill="#82e2b9"/>
+<text x="567" y="690" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Code turns the draft into numbers</text>
+<text x="567" y="724" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Validation + risk / concentration / fees</text>
+<text x="567" y="753" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Inverse-vol + risk-parity at same gross</text>
+<path d="M 1044 730 H 1096" fill="none" stroke="#65d9ed" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="1112" y="654" width="416" height="152" rx="16" fill="#142138"/>
+<rect x="1112" y="674" width="4" height="112" rx="2" fill="#bba8ff"/>
+<text x="1135" y="690" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">PM confirms or revises</text>
+<text x="1135" y="724" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">One follow-up; no open-ended loop</text>
+<text x="1135" y="753" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">A revision is validated again</text>
+<path d="M 1300 806 V 844 H 272 V 808" fill="none" stroke="#bba8ff" stroke-width="2.5" marker-end="url(#loop)" stroke-dasharray="7 7"/>
+<rect x="500" y="828" width="510" height="34" rx="12" fill="#0c1425"/>
+<text x="755" y="852" fill="#bba8ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">One chance to revise. Every version is recorded.</text>
+<text x="72" y="914" fill="#65d9ed" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="650" text-anchor="start">03</text>
+<text x="119" y="914" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="650" text-anchor="start">Commit through deterministic code</text>
+<rect x="72" y="940" width="438" height="143" rx="16" fill="#142138"/>
+<rect x="72" y="960" width="4" height="103" rx="2" fill="#82e2b9"/>
+<text x="95" y="976" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Final validity gate</text>
+<text x="95" y="1010" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Known names · long-only · caps</text>
+<text x="95" y="1039" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Gross rule + evaluable conditions</text>
+<path d="M 510 1008 H 552" fill="none" stroke="#65d9ed" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="568" y="940" width="389" height="143" rx="16" fill="#142138"/>
+<rect x="568" y="960" width="4" height="103" rx="2" fill="#65d9ed"/>
+<text x="591" y="976" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Separate the exposure dial</text>
+<text x="591" y="1010" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Scale the valid equity mix</text>
+<text x="591" y="1039" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">to the configured invested share</text>
+<path d="M 957 1008 H 998" fill="none" stroke="#65d9ed" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="1014" y="940" width="514" height="143" rx="16" fill="#142138"/>
+<rect x="1014" y="960" width="4" height="103" rx="2" fill="#82e2b9"/>
+<text x="1037" y="976" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="650" text-anchor="start">Initial weights + cash</text>
+<text x="1037" y="1010" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Precision-safe targets + audit trail</text>
+<text x="1037" y="1039" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Then hold: the implemented entry stage</text>
+<path d="M 1317 806 V 883 H 48 V 1008 H 68" fill="none" stroke="#65d9ed" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="72" y="1130" fill="#bba8ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="650" text-anchor="start">NO VALID ENTRY?</text>
+<text x="290" y="1130" fill="#eef4ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">Deterministic inverse-vol fallback at the configured exposure.</text>
+<text x="72" y="1186" fill="#65d9ed" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="650" text-anchor="start">REUSABLE PATTERN</text>
+<text x="326" y="1186" fill="#a9bad1" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">Specialists propose evidence; the agent decides; code owns constraints and commitment.</text>
+</svg>

@@ -1,0 +1,6 @@
+-r demo.txt
+pyarrow==20.0.0
+httpx==0.28.1
+truststore==0.10.4
+yfinance==1.7.0
+pytest>=8,<10

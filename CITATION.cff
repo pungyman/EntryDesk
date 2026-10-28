@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please reference this implementation and the ACM ICAIF 2026 Trading Agent Competition when discussing the system."
+title: "ICAIF 2026: An Evidence-Driven Trading Desk"
+type: software
+authors:
+  - name: "ICAIF 2026 entry contributors"
+repository-code: "https://github.com/pungyman/icaif2026"
+url: "https://github.com/pungyman/icaif2026"
+abstract: "Competition-entry implementation combining daily return-ranking ensembles, HAR volatility forecasts, and a structured multi-agent initial-portfolio decision with deterministic validation, quantified critique, bounded revision, and fallback."
+keywords:
+  - agentic AI
+  - multi-agent systems
+  - portfolio construction
+  - volatility forecasting
+  - ICAIF 2026
