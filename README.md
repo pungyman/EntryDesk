@@ -105,7 +105,7 @@ The [recorded October 12 entry](OFFICIAL_ENTRY_2026-10-12.md) bought **13 names 
 | Simulator, weights, and official formulas | [`icaif/sim.py`](icaif/sim.py), [`weights.py`](icaif/weights.py), [`kit.py`](icaif/kit.py) |
 | Entry experiments | [`tools/entry_replay.py`](tools/entry_replay.py), [`tools/doe_report.py`](tools/doe_report.py), [`stage1_doe.md`](stage1_doe.md) |
 | Recorded official entry | [`OFFICIAL_ENTRY_2026-10-12.md`](OFFICIAL_ENTRY_2026-10-12.md) |
-| Existing detailed research notes | [`docs/development-notes.md`](docs/development-notes.md), [`mlsys/`](mlsys/README.md) |
+| Existing detailed research notes | [`docs/development-notes.md`](docs/development-notes.md) |
 
 ## Reproduction and scope
 
