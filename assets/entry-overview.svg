@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="710" viewBox="0 0 1600 710" role="img" aria-labelledby="title desc">
+<title id="title">EntryDesk: four perspectives, one portfolio</title><desc id="desc">Four specialist analysts provide independent reports to a portfolio manager. The manager drafts a book. Deterministic risk and validation code supplies critique for one revision, then commits initial weights and cash. This overview omits fallback and exposure details, which are documented separately.</desc>
+<rect width="1600" height="710" rx="28" fill="#ffffff"/>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7.5" refY="4.5" orient="auto"><path d="M 1 1 L 7.5 4.5 L 1 8" fill="none" stroke="#a9b1bf" stroke-width="1.6"/></marker><marker id="purple-arrow" markerWidth="9" markerHeight="9" refX="7.5" refY="4.5" orient="auto"><path d="M 1 1 L 7.5 4.5 L 1 8" fill="none" stroke="#7957bf" stroke-width="1.6"/></marker></defs>
+<text x="58" y="52" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="650" text-anchor="start">ENTRYDESK  /  THE BIG PICTURE</text>
+<text x="58" y="110" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="44" font-weight="650" text-anchor="start">Four perspectives. One portfolio.</text>
+<text x="58" y="151" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">Independent evidence, agent judgment, deterministic commitment.</text>
+<rect x="58" y="207" width="360" height="360" rx="22" fill="#edf7ef" stroke="#268354" stroke-opacity=".35" stroke-width="1.8"/>
+<text x="83" y="247" fill="#268354" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="650" text-anchor="start">Analyst team</text>
+<g transform="translate(85,277) scale(0.8)" fill="none" stroke="#268354" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><path d="M5 40V9M5 40h39M11 31l10-12 9 5L43 9M35 9h8v8"/></g>
+<text x="143" y="295" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="650" text-anchor="start">Market</text>
+<text x="143" y="322" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start">Regime + macro</text>
+<g transform="translate(85,345) scale(0.8)" fill="none" stroke="#268354" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><rect x="5" y="8" width="38" height="35" rx="5"/><path d="M5 19h38M15 4v10M33 4v10M14 28h5M28 28h5M14 35h5"/></g>
+<text x="143" y="363" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="650" text-anchor="start">Earnings</text>
+<text x="143" y="390" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start">Events + timing</text>
+<g transform="translate(85,413) scale(0.8)" fill="none" stroke="#268354" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><rect x="5" y="7" width="38" height="36" rx="4"/><path d="M13 15h22M13 23h9v11h-9zM28 23h7M28 30h7M13 38h22"/></g>
+<text x="143" y="431" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="650" text-anchor="start">News</text>
+<text x="143" y="458" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start">Company catalysts</text>
+<g transform="translate(85,481) scale(0.8)" fill="none" stroke="#268354" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><path d="M6 41h37M10 37V24h6v13M23 37V14h6v23M36 37V5h6v32"/></g>
+<text x="143" y="499" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="650" text-anchor="start">Quant</text>
+<text x="143" y="526" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start">Ranks + volatility</text>
+<rect x="522" y="292" width="262" height="237" rx="22" fill="#f1edfc" stroke="#7957bf" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(628,311) scale(1.15)" fill="none" stroke="#7957bf" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><circle cx="24" cy="13" r="9"/><path d="M7 43v-6c0-9 8-14 17-14s17 5 17 14v6M18 25l6 8 6-8M24 33v10"/></g>
+<text x="653" y="411" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" font-weight="650" text-anchor="middle">Portfolio</text>
+<text x="653" y="447" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" font-weight="650" text-anchor="middle">manager</text>
+<text x="653" y="488" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle">Weights + thesis</text>
+<rect x="884" y="292" width="290" height="237" rx="22" fill="#fff5e3" stroke="#bb821c" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(1001,311) scale(1.15)" fill="none" stroke="#bb821c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><path d="M24 4l17 7v13c0 10-8 17-17 22C15 41 7 34 7 24V11zM15 24l6 6 13-14"/></g>
+<text x="1029" y="411" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="650" text-anchor="middle">Risk &amp; validation</text>
+<text x="1029" y="453" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle">Measure the proposal</text>
+<text x="1029" y="488" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle">Enforce constraints</text>
+<rect x="1274" y="292" width="268" height="237" rx="22" fill="#edf3ff" stroke="#4d76c8" stroke-opacity=".35" stroke-width="1.8"/>
+<g transform="translate(1380,311) scale(1.15)" fill="none" stroke="#4d76c8" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"><rect x="4" y="12" width="40" height="31" rx="5"/><path d="M16 12V6h16v6M4 24h40M20 24v6h8v-6"/></g>
+<text x="1408" y="411" fill="#202738" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="650" text-anchor="middle">Initial portfolio</text>
+<text x="1408" y="453" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle">Stock weights</text>
+<text x="1408" y="488" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle">+ cash</text>
+<path d="M418 411 H507" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="468" y="388" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle">Reports</text>
+<path d="M784 411 H869" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="834" y="388" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle">Draft</text>
+<path d="M1174 411 H1259" fill="none" stroke="#a9b1bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="1224" y="388" fill="#687182" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle">Commit</text>
+<path d="M1029 292 V232 H653 V277" fill="none" stroke="#7957bf" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#purple-arrow)"/>
+<text x="841" y="217" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle">Risk feedback · one revision</text>
+<text x="238" y="615" fill="#268354" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="650" text-anchor="middle">Evidence in parallel</text>
+<text x="840" y="615" fill="#7957bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="650" text-anchor="middle">A bounded decision loop</text>
+<text x="1408" y="615" fill="#4d76c8" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="650" text-anchor="middle">Then hold</text>
+</svg>

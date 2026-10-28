@@ -104,7 +104,8 @@ def overview():
     f.text(238, 615, 'Evidence in parallel', 23, PALETTES['green'][1], 650, 'middle')
     f.text(840, 615, 'A bounded decision loop', 23, PALETTES['purple'][1], 650, 'middle')
     f.text(1408, 615, 'Then hold', 23, PALETTES['blue'][1], 650, 'middle')
-    f.save('entry-mechanism')
+    f.save('entry-overview')
+    f.save('entry-mechanism')  # Preserve existing external image links.
 
 
 def review_loop():

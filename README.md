@@ -6,9 +6,9 @@ A multi-agent portfolio-construction system built for the **[ACM ICAIF 2026 Trad
 
 **[Try the entry demo](#try-the-entry-without-an-api-key)** · **[How the entry works](docs/entry-mechanism.md)** · **[Forecasting stack](docs/forecasting.md)** · **[Contest implementation](docs/contest-entry.md)** · **[Reproduction](docs/reproduction.md)**
 
-[![Desk v3 entry mechanism: point-in-time evidence feeds independent analysts, a portfolio-manager draft, deterministic critique, one revision, and validated initial weights.](assets/entry-mechanism.svg)](docs/entry-mechanism.md)
+[![Desk v3 entry mechanism: point-in-time evidence feeds independent analysts, a portfolio-manager draft, deterministic critique, one revision, and validated initial weights.](assets/entry-overview.svg)](docs/entry-mechanism.md)
 
-*Four analysts inform one portfolio manager. Code supplies risk feedback and enforces the final constraints. The implemented contest strategy then holds the initial book. [Full-resolution overview](assets/entry-mechanism.png) · [Figure source](assets/render_entry_mechanism.py).*
+*Four analysts inform one portfolio manager. Code supplies risk feedback and enforces the final constraints. The implemented contest strategy then holds the initial book. [Full-resolution overview](assets/entry-overview.png) · [Figure source](assets/render_entry_mechanism.py).*
 
 ## The interesting part is how the decision gets made
 
